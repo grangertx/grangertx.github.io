@@ -46,7 +46,7 @@
       "opacity": "99",
       "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
     },
-    "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    "gdpr": ""
   },
   "pages": {
     "Home.html": {
@@ -78,7 +78,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">WHAT'S HAPPENING?</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMMUNITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CommunityRelations.html\">COMMUNITY RELATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CommunityResources.html\" aria-expanded=\"false\">COMMUNITY RESOURCES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://form.jotform.com/91546385815163\" target=\"_blank\">VACATION WATCH REQUEST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Home.html#form1-i\">CONTACT US</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">WHAT'S HAPPENING?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMUNITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CommunityRelations.html\">COMMUNITY RELATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CommunityResources.html\" aria-expanded=\"false\">COMMUNITY RESOURCES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://form.jotform.com/91546385815163\" target=\"_blank\">VACATION WATCH REQUEST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Home.html#form1-i\">CONTACT US</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -420,44 +420,53 @@
               }
             },
             {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
+              "authorName": "<a href=\"mailto:trey.jeffers@grangerpd.us\">Trey Jeffers</a>",
+              "authorBio": "Patrol Officer",
+              "text": "Trey Jeffers has been with the Granger Police Department since 2019.",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-84-160x107.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "<a href=\"mailto:randy.glasgow@grangerpd.us\">Randal Glasgow</a>",
+              "authorBio": "Detective",
+              "text": "Randal Glasgow has been with the Granger Police Department since 20.",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/detective-4-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Howard",
+              "authorBio": "Fire Arms Instructor",
               "text": "has been with the Granger Police Department since.",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/img-84-160x107.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
-              "text": "has been with the Granger Police Department since.",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
-              "text": "has been with the Granger Police Department since.",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
@@ -467,11 +476,14 @@
               "text": "<p>has been with the Granger Police Department since.</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/img-160x106.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
@@ -481,11 +493,14 @@
               "text": "<p>has been with the Granger Police Department since.</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/img-84-160x107.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
@@ -495,11 +510,14 @@
               "text": "<p>has been with the Granger Police Department since.</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/img-160x106.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
@@ -509,39 +527,48 @@
               "text": "<p>has been with the Granger Police Department since.</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/img-84-160x107.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
             {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
-              "text": "<p>has been with the Granger Police Department since.</p>",
+              "authorName": "",
+              "authorBio": "",
+              "text": "",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/thin-blue-line-745x491.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
             {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
-              "text": "<p>has been with the Granger Police Department since.</p>",
+              "authorName": "",
+              "authorBio": "",
+              "text": "",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/thin-blue-line-745x491.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             }
@@ -589,7 +616,7 @@
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
-            "action": "PoliceChief@cityofrogerstx.gov",
+            "action": "contactus@grangerpd.us",
             "alerts": {
               "success": "Thanks for filling out the form!"
             },
@@ -696,7 +723,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">WHAT'S HAPPENING?</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMMUNITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CommunityRelations.html\">COMMUNITY RELATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CommunityResources.html\" aria-expanded=\"false\">COMMUNITY RESOURCES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://form.jotform.com/91546385815163\" target=\"_blank\">VACATION WATCH REQUEST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Home.html#form1-i\">CONTACT US</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">WHAT'S HAPPENING?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMUNITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CommunityRelations.html\">COMMUNITY RELATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CommunityResources.html\" aria-expanded=\"false\">COMMUNITY RESOURCES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://form.jotform.com/91546385815163\" target=\"_blank\">VACATION WATCH REQUEST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Home.html#form1-i\">CONTACT US</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -905,7 +932,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">WHAT'S HAPPENING?</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMMUNITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CommunityRelations.html\">COMMUNITY RELATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CommunityResources.html\" aria-expanded=\"false\">COMMUNITY RESOURCES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://form.jotform.com/91546385815163\" target=\"_blank\">VACATION WATCH REQUEST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Home.html#form1-i\">CONTACT US</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">WHAT'S HAPPENING?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMUNITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CommunityRelations.html\">COMMUNITY RELATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CommunityResources.html\" aria-expanded=\"false\">COMMUNITY RESOURCES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://form.jotform.com/91546385815163\" target=\"_blank\">VACATION WATCH REQUEST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Home.html#form1-i\">CONTACT US</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1334,7 +1361,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">WHAT'S HAPPENING?</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMMUNITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CommunityRelations.html\">COMMUNITY RELATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CommunityResources.html\" aria-expanded=\"false\">COMMUNITY RESOURCES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://form.jotform.com/91546385815163\" target=\"_blank\">VACATION WATCH REQUEST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Home.html#form1-i\">CONTACT US</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">WHAT'S HAPPENING?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMUNITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CommunityRelations.html\">COMMUNITY RELATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CommunityResources.html\" aria-expanded=\"false\">COMMUNITY RESOURCES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://form.jotform.com/91546385815163\" target=\"_blank\">VACATION WATCH REQUEST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Home.html#form1-i\">CONTACT US</a></li>",
           "_tags": [
             "Theme"
           ],
