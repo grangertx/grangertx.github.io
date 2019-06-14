@@ -388,7 +388,7 @@
             {
               "authorName": "<a href=\"mailto:tommy.thomas@grangerpd.us\">Tommy Thomas</a>",
               "authorBio": "School Resource Sergeant",
-              "text": "Sergeant Tommy Thomas has been with the Granger Police Department since 20.",
+              "text": "Sergeant Tommy Thomas has been with the Granger Police Department since 2008.",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/norfolk-police-department-sergeant-chevrons-1-121x160.png",
@@ -405,7 +405,7 @@
             {
               "authorName": "<a href=\"mailto:ross.brown@grangerpd.us\">Ross Brown</a>",
               "authorBio": "Reserve Sergeant",
-              "text": "Sergeant Ross Brown has been with the Granger Police Department since 20.",
+              "text": "Sergeant Ross Brown has been with the Granger Police Department since 2016.",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/norfolk-police-department-sergeant-chevrons-1-121x160.png",
@@ -439,7 +439,7 @@
             {
               "authorName": "<a href=\"mailto:randy.glasgow@grangerpd.us\">Randal Glasgow</a>",
               "authorBio": "Detective",
-              "text": "Randal Glasgow has been with the Granger Police Department since 20.",
+              "text": "Randal Glasgow has been with the Granger Police Department since 2010.",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/detective-4-160x160.jpg",
@@ -454,12 +454,12 @@
               }
             },
             {
-              "authorName": "Howard",
+              "authorName": "<a href=\"mailto:howard.cruse@grangerpd.us\">Howard Cruse</a>",
               "authorBio": "Fire Arms Instructor",
-              "text": "has been with the Granger Police Department since.",
+              "text": "Howard Cruse has been with the Granger Police Department since 2011.",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-84-160x107.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/firearms-instructor-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -471,43 +471,9 @@
               }
             },
             {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
-              "text": "<p>has been with the Granger Police Department since.</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-160x106.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
-                }
-              }
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
-              "text": "<p>has been with the Granger Police Department since.</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-84-160x107.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
-                }
-              }
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
-              "text": "<p>has been with the Granger Police Department since.</p>",
+              "authorName": "<a href=\"mailto:joe.rosser@grangerpd.us\">Joe Rosser</a>",
+              "authorBio": "Reserve Officer",
+              "text": "<p>Joe Rosser has been with the Granger Police Department since 2015.</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/img-160x106.jpg",
@@ -522,9 +488,43 @@
               }
             },
             {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
-              "text": "<p>has been with the Granger Police Department since.</p>",
+              "authorName": "<a href=\"mailto:jason.susan@grangerpd.us\">Jason Susan</a>",
+              "authorBio": "Reserve Officer",
+              "text": "<p>Jason Susan has been with the Granger Police Department since 2012.</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-84-160x107.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "<a href=\"mailto:doug.grisham@grangerpd.us\">Doug Grisham</a>",
+              "authorBio": "Reserve Officer",
+              "text": "<p>Doug Grisham has been with the Granger Police Department since 2019.</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-160x106.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Michael Watts",
+              "authorBio": "Reserve Officer",
+              "text": "<p>Michael Watts has been with the Granger Police Department since 2019.</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/img-84-160x107.jpg",
@@ -592,7 +592,7 @@
               "color": "#ffffff"
             },
             ".card-block P": {
-              "text-align": "left"
+              "text-align": "center"
             }
           }
         },
